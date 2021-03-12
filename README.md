@@ -1,6 +1,6 @@
 # App01 - Xylophone
 
-Projeto Flutter utilizando recusros externos via (pud.dev)[https://pub.dev/packages/audioplayers/install] para inclusão de dependencias externas.
+Projeto Flutter utilizando recusros externos via [PubDev](https://pub.dev/packages/audioplayers/install) para inclusão de dependencias externas.
 
 Neste projeto utilizamos princípios básicos de [Layout em Flutter](https://flutter.dev/docs/development/ui/layout) utilizando os Widgets [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) e [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 
