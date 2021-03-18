@@ -113,6 +113,7 @@ Vamos adicionar o pacote `AudioCache` para executar os audios de forma mais simp
 ```
 3. Save o arquivo e verifique se as dependencias estao sendo baixadas.
 4. Caso não forem baixadas acesse o terminal e execute o comando `flutter pub get`. Este comando ira baixar as dependencias externas.
+5. No arquivo `lib/main.dart` adicione a dependencia no topo do arquivo `import 'package:audioplayers/audio_cache.dart';`.
 
 #### Adicionando os ASSETS
 Assets são recursos adicionais do nosso projeto, vamos adicionar os sons para serem executados.
