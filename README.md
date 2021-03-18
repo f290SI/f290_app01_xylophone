@@ -10,7 +10,7 @@ Neste projeto utilizamos princípios básicos de [Layout em Flutter](https://flu
 ### Criar projeto
 Como de praxe, com a combinação de teclas `Alt + Shift+ P`, selecione um novo projeto **Flutter**, informe o diretorio de destino e espere o build.
 
-### Utilizando o código nencessário
+### Utilizando o código necessário
 Por padrão um novo projeto trás a aplicação **Counter** ja implementada.
 Ela utiliza o conceito de `StateFull Widgets` e ainda não precisamos utilizálos, então vamos utilizar o mímino necessário.
 Remova todo ocódigo do arquivo `lib/main.dart`.
