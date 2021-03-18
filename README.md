@@ -118,7 +118,8 @@ Vamos adicionar o pacote `AudioCache` para executar os audios de forma mais simp
 #### Adicionando os ASSETS
 Assets são recursos adicionais do nosso projeto, vamos adicionar os sons para serem executados.
 1. Na raiz do app, crie a pasta `assets`.
-2. No arquivo `pubspec.yaml` descomente a linha dos assets e deixe-a da seguinte forma:
+2. Adione os arquivos de audio na pasta `assets`.
+3. No arquivo `pubspec.yaml` descomente a linha dos assets e deixe-a da seguinte forma:
 ```shell
   assets:
     - assets/
